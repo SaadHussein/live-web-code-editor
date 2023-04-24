@@ -1,7 +1,3 @@
-# live-web-code-editor
+# Live Web Code Editor
 
-hello there, your task is to implement auto-save functionality with localStorage, and auto-load the saved code when user revisits or refreshes the page.
-
-fork the repository and start working on it.
-
-best of luck.
+The Live Web Code Editor is a web application that allows users to write, edit, and run HTML, CSS, and JavaScript code in real-time.
